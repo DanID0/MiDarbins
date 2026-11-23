@@ -1,0 +1,8 @@
+Palmer Archipelago (Antarctica) penguin data
+Datus ievāca Kristen Gorman un Palmer Station LTER pētnieki.
+CSV publicēts Allison Horst, Alison Hill un Kristen Gorman projektā palmerpenguins.
+
+Datu apraksts: https://allisonhorst.github.io/palmerpenguins/
+Lejupielādētais CSV: https://raw.githubusercontent.com/allisonhorst/palmerpenguins/main/inst/extdata/penguins.csv
+Lejupielādes datums: 20.11.2026.
+Datu licence: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
